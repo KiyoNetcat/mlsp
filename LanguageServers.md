@@ -7,6 +7,7 @@
 * [Haskell](#haskell)
 * [JavaScript/TypeScript](#javascripttypescript)
 * [JSON](#json)
+* [Nix](#nix)
 * [Odin](#odin)
 * [Lua](#lua)
 * [Markdown](#markdown)
@@ -94,6 +95,13 @@
   - Installation:
     [instructions](https://github.com/artempyanykh/marksman/blob/main/docs/install.md)
   - Command: `marksman server`
+
+## Nix
+
+- [nixd](https://github.com/nix-community/nixd)
+  - Installation:
+    [instructions](https://github.com/nix-community/nixd/blob/main/nixd/docs/editor-setup.md#installation---get-a-working-executable)
+  - Command: `nixd`
 
 ## Odin
 
